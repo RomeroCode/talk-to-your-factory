@@ -11,6 +11,7 @@ This project demonstrates the application of Agentic AI in industrial environmen
 - 🔍 Query engine status
 - 🔧 Predict Remaining Useful Life (RUL)
 - 🛑 Simulate engine shutdowns
+- 📅 Schedule maintenance actions  
 - 🤖 Modular multi-agent architecture (root agent + sub-agents)
 - 📊 Backed by the CMAPSS aircraft engine degradation dataset
 
