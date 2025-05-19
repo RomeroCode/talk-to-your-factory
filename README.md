@@ -65,6 +65,30 @@ Access the ADK web interface and begin interacting using natural language.
 I need to maintain all the engines working well according to their predicted RUL, avoiding unexpected stops. Please create a consolidated predictive maintenance plan in table format.
 ```
 
+### 💡 Sample of Output
+
+| Engine ID | Recommended Action | Priority  | Estimated Cost (USD) | Labor Hours | Assigned Staff                    | Scheduled Time         |
+|-----------|--------------------|-----------|-----------------------|-------------|----------------------------------|------------------------|
+| 1         | MONITOR            | low       | 0                     | 0           | junior_mechanic                  | Schedule within 7 days |
+| 2         | MONITOR            | low       | 0                     | 0           | junior_mechanic                  | Schedule within 7 days |
+| 3         | MONITOR            | low       | 0                     | 0           | junior_mechanic                  | Schedule within 3 days |
+| 4         | MONITOR            | low       | 0                     | 0           | junior_mechanic                  | Schedule within 7 days |
+| 5         | MONITOR            | low       | 0                     | 0           | junior_mechanic                  | Schedule within 7 days |
+| 6         | MONITOR            | low       | 0                     | 0           | junior_mechanic                  | Schedule within 7 days |
+| 7         | MONITOR            | low       | 0                     | 0           | junior_mechanic                  | Schedule within 7 days |
+| 8         | MONITOR            | low       | 0                     | 0           | junior_mechanic                  | Schedule within 7 days |
+| 9         | MONITOR            | low       | 0                     | 0           | junior_mechanic                  | Schedule within 7 days |
+| 10        | MONITOR            | low       | 0                     | 0           | junior_mechanic                  | Schedule within 7 days |
+| 11        | MONITOR            | low       | 0                     | 0           | junior_mechanic                  | Schedule within 7 days |
+| 12        | MONITOR            | low       | 0                     | 0           | junior_mechanic                  | Schedule within 7 days |
+| 13        | MONITOR            | low       | 0                     | 0           | junior_mechanic                  | Schedule within 7 days |
+| 14        | MONITOR            | low       | 0                     | 0           | junior_mechanic                  | Schedule within 7 days |
+| 15        | MONITOR            | low       | 0                     | 0           | junior_mechanic                  | Schedule within 7 days |
+| 16        | MONITOR            | low       | 0                     | 0           | junior_mechanic                  | Schedule within 7 days |
+| 17        | REPAIR             | high      | 6000                  | 4           | mechanic, junior_mechanic        | Schedule within 3 days |
+| 18        | REPAIR             | high      | 6000                  | 4           | mechanic, junior_mechanic        | Schedule within 3 days |
+| 19        | MONITOR            | low       | 0                     | 0           | junior_mechanic                  | Schedule within 7 days |
+| 20        | STOP               | critical  | 15000                 | 8           | tech_lead, senior_mechanic       | IMMEDIATE (0–1 days)   |
 ---
 
 ## 📚 References
