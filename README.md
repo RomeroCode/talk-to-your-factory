@@ -37,6 +37,18 @@ cd talk-to-your-factory
 pip install -r requirements.txt
 ````
 
+#### Environment Configuration
+
+Before running the app, create a `.env` file in the root directory with the following content:
+
+```env
+GOOGLE_GENAI_USE_VERTEXAI=FALSE
+GOOGLE_API_KEY=<your-API-key-here>
+```
+
+> 💡 Set `GOOGLE_GENAI_USE_VERTEXAI=FALSE` to use the public Gemini API instead of Google Cloud Vertex AI. Make sure you have a valid API key from Google Generative AI.
+
+
 ### Run the App
 
 ```bash
