@@ -5,6 +5,10 @@
 This project demonstrates the application of Agentic AI in industrial environments, enabling operators to interact with complex systems through natural language. Built using Google ADK and a modular agent architecture, it translates high-level business or operational intents into actionable tasks—such as predictive maintenance and system control.
 ---
 
+![Agentic AI Diagram](./agentic-ai.png)
+
+---
+
 ## 🚀 Features
 
 - 🧠 Intent-based natural language interaction
