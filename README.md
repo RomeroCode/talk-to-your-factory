@@ -87,4 +87,3 @@ Contributions and improvements are welcome! Feel free to fork the repository, su
 
 This project is licensed under the MIT License.
 
-```
