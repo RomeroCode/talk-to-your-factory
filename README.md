@@ -42,25 +42,6 @@ Access the ADK web interface and begin interacting using natural language.
 
 ---
 
-## 📁 Project Structure
-
-```
-.
-├── agents/
-│   ├── root_agent.py
-│   ├── data_agent.py
-│   └── maintenance_agent.py
-├── tools/
-│   └── data_tools.py
-├── data/
-│   └── cmapss_sample.csv
-├── requirements.txt
-├── README.md
-└── main.py
-```
-
----
-
 ## 🧪 Example Prompt
 
 ```text
